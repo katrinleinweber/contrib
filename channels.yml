@@ -1284,3 +1284,8 @@ channels:
     link: https://www.youtube.com/channel/UC-R0SL5AsnnvDO2zf__7yPw
     channelId: UC-R0SL5AsnnvDO2zf__7yPw
     category: conference
+    
+  - name: R(Studio) Resources
+    link: https://www.youtube.com/channel/UC3xfbCMLCw1Hh4dWop3XtHg/
+    channelId: UC3xfbCMLCw1Hh4dWop3XtHg
+    category: vlog
